@@ -1,0 +1,11 @@
+Intune Deployment Steps (Simple Explanation):
+Set up Intune subscription
+➝ Get a license and activate Intune for your organization.
+Add, configure, and protect apps
+➝ Decide which apps users need and set protection rules for them.
+Create compliance policies
+➝ Define what a "secure" or "healthy" device looks like (e.g., must have a password).
+Configure device settings
+➝ Apply settings like Wi-Fi, VPN, encryption, etc., to devices.
+Enroll devices
+➝ Connect users' devices to Intune so they're managed and secured.
